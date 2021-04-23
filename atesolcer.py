@@ -1,4 +1,4 @@
-iimport datetime
+import datetime
 import random
 
 ates = random.randint(30,40)
